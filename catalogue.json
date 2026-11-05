@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 7,
-  "generatedAt": "2026-11-05T17:06:43Z",
+  "revision": 9,
+  "generatedAt": "2026-11-05T17:44:41Z",
   "channels": [
     {
       "id": "UC5f7yO3WU_Ns0WDCQuP5bAw",
@@ -189,6 +189,96 @@
       "relatedReferences": [],
       "reviewedOn": "2026-11-05",
       "publishedAt": "2026-10-30T20:46:11Z"
+    },
+    {
+      "id": "JsoqgXgkPic",
+      "channelID": "UCisU1R_ckyT-y9LQNCPzPRQ",
+      "title": "Did You Know That The Bible Teaches 3 Different Kinds Of Baptism?",
+      "originalTitle": "Did You Know That The Bible Teaches 3 Different Kinds Of Baptism?",
+      "speaker": "Taco Talks",
+      "channel": "Taco Talks",
+      "channelURL": "https://www.youtube.com/channel/UCisU1R_ckyT-y9LQNCPzPRQ",
+      "durationSeconds": 102,
+      "summary": "A short video published by Taco Talks.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-10-26T20:04:03Z"
+    },
+    {
+      "id": "p1hCUgogd60",
+      "channelID": "UCisU1R_ckyT-y9LQNCPzPRQ",
+      "title": "Don’t Be Catholic",
+      "originalTitle": "Don’t Be Catholic",
+      "speaker": "Taco Talks",
+      "channel": "Taco Talks",
+      "channelURL": "https://www.youtube.com/channel/UCisU1R_ckyT-y9LQNCPzPRQ",
+      "durationSeconds": 161,
+      "summary": "A short video published by Taco Talks.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-10-25T20:37:06Z"
+    },
+    {
+      "id": "tU2fIVxpuqg",
+      "channelID": "UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "title": "The HILARIOUS Disciple \"Beef\" in Gospels No One Notices",
+      "originalTitle": "The HILARIOUS Disciple \"Beef\" in Gospels No One Notices",
+      "speaker": "Lakepointe Church speakers",
+      "channel": "Lakepointe Church",
+      "channelURL": "https://www.youtube.com/channel/UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "durationSeconds": 49,
+      "summary": "A short video published by Lakepointe Church.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-10-22T16:04:40Z"
+    },
+    {
+      "id": "D5ItYWMb-DI",
+      "channelID": "UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "title": "This Realization Will *CHANGE* How You Read the Gospels",
+      "originalTitle": "This Realization Will *CHANGE* How You Read the Gospels",
+      "speaker": "Lakepointe Church speakers",
+      "channel": "Lakepointe Church",
+      "channelURL": "https://www.youtube.com/channel/UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "durationSeconds": 180,
+      "summary": "A short video published by Lakepointe Church.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-10-21T20:55:59Z"
+    },
+    {
+      "id": "9b8dG41HrFI",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart Knechtle | What One Question Would You Ask God? | Give Me an An Answer",
+      "originalTitle": "Stuart Knechtle | What One Question Would You Ask God? | Give Me an An Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 61,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-10-18T22:24:32Z"
+    },
+    {
+      "id": "1r45lKWVlH8",
+      "channelID": "UCJX2EazMKUqBQV048px2aoA",
+      "title": "Jesus IS NOT your example",
+      "originalTitle": "Jesus IS NOT your example",
+      "speaker": "Wes Huff",
+      "channel": "Wes Huff",
+      "channelURL": "https://www.youtube.com/channel/UCJX2EazMKUqBQV048px2aoA",
+      "durationSeconds": 110,
+      "summary": "A short video published by Wes Huff.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-08-26T20:24:10Z"
     }
   ]
 }
