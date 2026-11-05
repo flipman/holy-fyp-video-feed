@@ -1,7 +1,179 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
-  "generatedAt": "2026-11-05T16:36:08Z",
-  "channels": [],
-  "clips": []
+  "revision": 6,
+  "generatedAt": "2026-11-05T17:05:44Z",
+  "channels": [
+    {
+      "id": "UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "name": "Lakepointe Church",
+      "reviewBasis": "user-trusted"
+    },
+    {
+      "id": "UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "name": "Daily Dose Of Wisdom",
+      "reviewBasis": "user-trusted"
+    },
+    {
+      "id": "UCisU1R_ckyT-y9LQNCPzPRQ",
+      "name": "Taco Talks",
+      "reviewBasis": "user-trusted"
+    },
+    {
+      "id": "UCJX2EazMKUqBQV048px2aoA",
+      "name": "Wes Huff",
+      "reviewBasis": "user-trusted"
+    },
+    {
+      "id": "UCTzZ2-byV7kigoeQ1ZQ39ig",
+      "name": "Ear to Hear",
+      "reviewBasis": "user-trusted"
+    },
+    {
+      "id": "UCedYGs_lqq1uNet0u7qlSyQ",
+      "name": "Cross Examined",
+      "reviewBasis": "user-trusted"
+    },
+    {
+      "id": "UCKr-liguaGWMf3f94eQXsug",
+      "name": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "reviewBasis": "user-trusted"
+    }
+  ],
+  "clips": [
+    {
+      "id": "YJtKfZE_GL0",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart & Cliffe Knechtle I Are The New Testament Gospels A Scam? | Give Me An Answer",
+      "originalTitle": "Stuart & Cliffe Knechtle I Are The New Testament Gospels A Scam? | Give Me An Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 24,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-11-05T14:35:44Z"
+    },
+    {
+      "id": "px3dNL7RSns",
+      "channelID": "UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "title": "This Is How You’ll KNOW When Revival Is Actually Happening",
+      "originalTitle": "This Is How You’ll KNOW When Revival Is Actually Happening",
+      "speaker": "Lakepointe Church speakers",
+      "channel": "Lakepointe Church",
+      "channelURL": "https://www.youtube.com/channel/UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "durationSeconds": 53,
+      "summary": "A short video published by Lakepointe Church.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-11-04T21:44:32Z"
+    },
+    {
+      "id": "MNX-Fo8e_lU",
+      "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "title": "MIC DROP Ending! 🔥",
+      "originalTitle": "MIC DROP Ending! 🔥",
+      "speaker": "Daily Dose of Wisdom guests",
+      "channel": "Daily Dose Of Wisdom",
+      "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "durationSeconds": 180,
+      "summary": "A short video published by Daily Dose Of Wisdom.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-11-04T17:00:20Z"
+    },
+    {
+      "id": "KeB_s5AFzas",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart & Cliffe Knechtle I Why Does Obedience Feel So Difficult? | Give Me An Answer",
+      "originalTitle": "Stuart & Cliffe Knechtle I Why Does Obedience Feel So Difficult? | Give Me An Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 130,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-11-03T19:11:11Z"
+    },
+    {
+      "id": "Um3SIp2b-84",
+      "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "title": "Famous Muslim FACT CHECKED In Real Time! 🔥",
+      "originalTitle": "Famous Muslim FACT CHECKED In Real Time! 🔥",
+      "speaker": "Daily Dose of Wisdom guests",
+      "channel": "Daily Dose Of Wisdom",
+      "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "durationSeconds": 103,
+      "summary": "A short video published by Daily Dose Of Wisdom.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-11-03T17:00:10Z"
+    },
+    {
+      "id": "cLVoaheNh3c",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart & Cliffe Knechtle I Do We Believe In Jesus Like A Kamikaze? | Give Me An Answer",
+      "originalTitle": "Stuart & Cliffe Knechtle I Do We Believe In Jesus Like A Kamikaze? | Give Me An Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 46,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-11-02T17:44:05Z"
+    },
+    {
+      "id": "S3LkLyrSjGE",
+      "channelID": "UCJX2EazMKUqBQV048px2aoA",
+      "title": "Jesus is God in ancient manuscript",
+      "originalTitle": "Jesus is God in ancient manuscript",
+      "speaker": "Wes Huff",
+      "channel": "Wes Huff",
+      "channelURL": "https://www.youtube.com/channel/UCJX2EazMKUqBQV048px2aoA",
+      "durationSeconds": 101,
+      "summary": "A short video published by Wes Huff.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-11-02T16:57:36Z"
+    },
+    {
+      "id": "dcmJCtZj_p0",
+      "channelID": "UCJX2EazMKUqBQV048px2aoA",
+      "title": "The world changed today 500 years ago",
+      "originalTitle": "The world changed today 500 years ago",
+      "speaker": "Wes Huff",
+      "channel": "Wes Huff",
+      "channelURL": "https://www.youtube.com/channel/UCJX2EazMKUqBQV048px2aoA",
+      "durationSeconds": 36,
+      "summary": "A short video published by Wes Huff.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-10-31T11:45:12Z"
+    },
+    {
+      "id": "epD2YEmsjBA",
+      "channelID": "UCJX2EazMKUqBQV048px2aoA",
+      "title": "Earliest surviving written words of Jesus",
+      "originalTitle": "Earliest surviving written words of Jesus",
+      "speaker": "Wes Huff",
+      "channel": "Wes Huff",
+      "channelURL": "https://www.youtube.com/channel/UCJX2EazMKUqBQV048px2aoA",
+      "durationSeconds": 70,
+      "summary": "A short video published by Wes Huff.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-05",
+      "publishedAt": "2026-10-30T20:46:11Z"
+    }
+  ]
 }
