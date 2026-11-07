@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 14,
-  "generatedAt": "2026-11-05T18:40:11Z",
+  "revision": 17,
+  "generatedAt": "2026-11-07T15:00:35Z",
   "channels": [
     {
       "id": "UC5f7yO3WU_Ns0WDCQuP5bAw",
@@ -41,6 +41,201 @@
   ],
   "clips": [
     {
+      "id": "m-bozWwn7KM",
+      "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
+      "title": "1 Prophet, 2 Wives? @TytusJones",
+      "originalTitle": "1 Prophet, 2 Wives? @TytusJones",
+      "speaker": "Cross Examined speakers",
+      "channel": "Cross Examined",
+      "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
+      "durationSeconds": 139,
+      "summary": "A short video published by Cross Examined.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-11-07T00:46:20Z"
+    },
+    {
+      "id": "F9ciJyrYw6g",
+      "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
+      "title": "EVERYONE Believes In at Least ONE Miracle #podcast",
+      "originalTitle": "EVERYONE Believes In at Least ONE Miracle #podcast",
+      "speaker": "Cross Examined speakers",
+      "channel": "Cross Examined",
+      "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
+      "durationSeconds": 58,
+      "summary": "A short video published by Cross Examined.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-11-06T23:20:28Z"
+    },
+    {
+      "id": "zURv38BiCtg",
+      "channelID": "UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "title": "*MIND-BENDING* Reality Behind Abraham's 80-Mile Walk",
+      "originalTitle": "*MIND-BENDING* Reality Behind Abraham's 80-Mile Walk",
+      "speaker": "Lakepointe Church speakers",
+      "channel": "Lakepointe Church",
+      "channelURL": "https://www.youtube.com/channel/UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "durationSeconds": 146,
+      "summary": "A short video published by Lakepointe Church.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-11-06T23:11:06Z"
+    },
+    {
+      "id": "bJrA74YsAa8",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart & Cliffe Knechtle I How Can God Call Human Beings Dogs? | Give Me An Answer",
+      "originalTitle": "Stuart & Cliffe Knechtle I How Can God Call Human Beings Dogs? | Give Me An Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 44,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-11-06T21:43:29Z"
+    },
+    {
+      "id": "P2llfrZrRig",
+      "channelID": "UCisU1R_ckyT-y9LQNCPzPRQ",
+      "title": "The Hebrew Roots Movement CAN Be Very Dangerous",
+      "originalTitle": "The Hebrew Roots Movement CAN Be Very Dangerous",
+      "speaker": "Taco Talks",
+      "channel": "Taco Talks",
+      "channelURL": "https://www.youtube.com/channel/UCisU1R_ckyT-y9LQNCPzPRQ",
+      "durationSeconds": 155,
+      "summary": "A short video published by Taco Talks.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-11-06T20:58:10Z"
+    },
+    {
+      "id": "xDaNTSfFT3w",
+      "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "title": "Persuasive MIC DROP!",
+      "originalTitle": "Persuasive MIC DROP!",
+      "speaker": "Daily Dose of Wisdom guests",
+      "channel": "Daily Dose Of Wisdom",
+      "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "durationSeconds": 74,
+      "summary": "A short video published by Daily Dose Of Wisdom.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-11-06T17:00:18Z"
+    },
+    {
+      "id": "DesCpMxY7C0",
+      "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
+      "title": "The Challenge of Witnessing to Mormons",
+      "originalTitle": "The Challenge of Witnessing to Mormons",
+      "speaker": "Cross Examined speakers",
+      "channel": "Cross Examined",
+      "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
+      "durationSeconds": 179,
+      "summary": "A short video published by Cross Examined.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-11-06T16:00:20Z"
+    },
+    {
+      "id": "JD6mxmgFfsU",
+      "channelID": "UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "title": "The *AMAZING* Lesson From the Life of C.T. Studd",
+      "originalTitle": "The *AMAZING* Lesson From the Life of C.T. Studd",
+      "speaker": "Lakepointe Church speakers",
+      "channel": "Lakepointe Church",
+      "channelURL": "https://www.youtube.com/channel/UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "durationSeconds": 47,
+      "summary": "A short video published by Lakepointe Church.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-11-06T14:57:15Z"
+    },
+    {
+      "id": "-T0gEwbg5FU",
+      "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
+      "title": "Can You Actually SHOW Christianity Is True?",
+      "originalTitle": "Can You Actually SHOW Christianity Is True?",
+      "speaker": "Cross Examined speakers",
+      "channel": "Cross Examined",
+      "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
+      "durationSeconds": 99,
+      "summary": "A short video published by Cross Examined.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-11-05T23:26:27Z"
+    },
+    {
+      "id": "ZxtUWgfzRHo",
+      "channelID": "UCJX2EazMKUqBQV048px2aoA",
+      "title": "Earliest image of Jesus isn’t what you think it is",
+      "originalTitle": "Earliest image of Jesus isn’t what you think it is",
+      "speaker": "Wes Huff",
+      "channel": "Wes Huff",
+      "channelURL": "https://www.youtube.com/channel/UCJX2EazMKUqBQV048px2aoA",
+      "durationSeconds": 129,
+      "summary": "A short video published by Wes Huff.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-11-05T22:33:26Z"
+    },
+    {
+      "id": "ASVo2Ro-vLg",
+      "channelID": "UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "title": "God's REAL Name and the Incredible Reality Behind It",
+      "originalTitle": "God's REAL Name and the Incredible Reality Behind It",
+      "speaker": "Lakepointe Church speakers",
+      "channel": "Lakepointe Church",
+      "channelURL": "https://www.youtube.com/channel/UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "durationSeconds": 158,
+      "summary": "A short video published by Lakepointe Church.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-11-05T21:43:44Z"
+    },
+    {
+      "id": "g5tq-zUVQro",
+      "channelID": "UCisU1R_ckyT-y9LQNCPzPRQ",
+      "title": "Taco Talks Gets Choked Up During Live Stream",
+      "originalTitle": "Taco Talks Gets Choked Up During Live Stream",
+      "speaker": "Taco Talks",
+      "channel": "Taco Talks",
+      "channelURL": "https://www.youtube.com/channel/UCisU1R_ckyT-y9LQNCPzPRQ",
+      "durationSeconds": 42,
+      "summary": "A short video published by Taco Talks.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-11-05T20:58:55Z"
+    },
+    {
+      "id": "QHZ4qb1de4A",
+      "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
+      "title": "7 Days That Divide the World",
+      "originalTitle": "7 Days That Divide the World",
+      "speaker": "Cross Examined speakers",
+      "channel": "Cross Examined",
+      "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
+      "durationSeconds": 179,
+      "summary": "A short video published by Cross Examined.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-11-05T19:00:26Z"
+    },
+    {
       "id": "8rlYR_iVb_E",
       "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
       "title": "Muhammad Said WHAT!?",
@@ -52,7 +247,7 @@
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-11-05T17:00:07Z"
     },
     {
@@ -67,7 +262,7 @@
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-11-05T14:35:44Z"
     },
     {
@@ -82,7 +277,7 @@
       "summary": "A short video published by Lakepointe Church.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-11-04T21:44:32Z"
     },
     {
@@ -97,7 +292,7 @@
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-11-04T17:00:20Z"
     },
     {
@@ -112,7 +307,7 @@
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-11-03T19:11:11Z"
     },
     {
@@ -127,7 +322,7 @@
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-11-03T17:00:10Z"
     },
     {
@@ -142,7 +337,7 @@
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-11-02T17:44:05Z"
     },
     {
@@ -157,7 +352,7 @@
       "summary": "A short video published by Wes Huff.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-11-02T16:57:36Z"
     },
     {
@@ -172,7 +367,7 @@
       "summary": "A short video published by Wes Huff.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-31T11:45:12Z"
     },
     {
@@ -187,7 +382,7 @@
       "summary": "A short video published by Wes Huff.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-30T20:46:11Z"
     },
     {
@@ -202,7 +397,7 @@
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-30T18:00:35Z"
     },
     {
@@ -217,7 +412,7 @@
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-30T15:00:15Z"
     },
     {
@@ -232,7 +427,7 @@
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-29T18:00:09Z"
     },
     {
@@ -247,7 +442,7 @@
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-29T15:00:13Z"
     },
     {
@@ -262,7 +457,7 @@
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-28T15:00:40Z"
     },
     {
@@ -277,7 +472,7 @@
       "summary": "A short video published by Taco Talks.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-26T20:04:03Z"
     },
     {
@@ -292,7 +487,7 @@
       "summary": "A short video published by Taco Talks.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-25T20:37:06Z"
     },
     {
@@ -307,7 +502,7 @@
       "summary": "A short video published by Taco Talks.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-24T15:01:10Z"
     },
     {
@@ -322,7 +517,7 @@
       "summary": "A short video published by Lakepointe Church.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-22T16:04:40Z"
     },
     {
@@ -337,7 +532,7 @@
       "summary": "A short video published by Lakepointe Church.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-21T20:55:59Z"
     },
     {
@@ -352,7 +547,7 @@
       "summary": "A short video published by Taco Talks.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-21T19:56:26Z"
     },
     {
@@ -367,7 +562,7 @@
       "summary": "A short video published by Lakepointe Church.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-21T16:16:46Z"
     },
     {
@@ -382,7 +577,7 @@
       "summary": "A short video published by Lakepointe Church.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-20T21:56:03Z"
     },
     {
@@ -397,7 +592,7 @@
       "summary": "A short video published by Lakepointe Church.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-20T20:51:53Z"
     },
     {
@@ -412,7 +607,7 @@
       "summary": "A short video published by Lakepointe Church.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-19T21:47:08Z"
     },
     {
@@ -427,7 +622,7 @@
       "summary": "A short video published by Lakepointe Church.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-19T14:43:02Z"
     },
     {
@@ -442,8 +637,23 @@
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-18T22:24:32Z"
+    },
+    {
+      "id": "Z1bJKrvC1Ew",
+      "channelID": "UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "title": "They Brought the Gospel to Prison... and the \"Impossible\" Happened",
+      "originalTitle": "They Brought the Gospel to Prison... and the \"Impossible\" Happened",
+      "speaker": "Lakepointe Church speakers",
+      "channel": "Lakepointe Church",
+      "channelURL": "https://www.youtube.com/channel/UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "durationSeconds": 180,
+      "summary": "A short video published by Lakepointe Church.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-10-17T18:53:06Z"
     },
     {
       "id": "zfpLL7mokUI",
@@ -457,8 +667,23 @@
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-17T15:06:26Z"
+    },
+    {
+      "id": "miezWfrt9r8",
+      "channelID": "UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "title": "Pastor Joby Martin's LIFE-CHANGING Dinner With Billy Graham",
+      "originalTitle": "Pastor Joby Martin's LIFE-CHANGING Dinner With Billy Graham",
+      "speaker": "Lakepointe Church speakers",
+      "channel": "Lakepointe Church",
+      "channelURL": "https://www.youtube.com/channel/UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "durationSeconds": 180,
+      "summary": "A short video published by Lakepointe Church.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-10-16T14:23:36Z"
     },
     {
       "id": "yWdqRLc7Sj0",
@@ -472,8 +697,23 @@
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-15T22:51:40Z"
+    },
+    {
+      "id": "i_Jt8-eeE6I",
+      "channelID": "UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "title": "PASTORS: How to Find a *Godly* Wife in 2026",
+      "originalTitle": "PASTORS: How to Find a *Godly* Wife in 2026",
+      "speaker": "Lakepointe Church speakers",
+      "channel": "Lakepointe Church",
+      "channelURL": "https://www.youtube.com/channel/UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "durationSeconds": 180,
+      "summary": "A short video published by Lakepointe Church.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-10-15T21:27:41Z"
     },
     {
       "id": "_gaqU63UmHc",
@@ -487,8 +727,23 @@
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-15T00:35:24Z"
+    },
+    {
+      "id": "5SyfBevh9S0",
+      "channelID": "UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "title": "Pastor's *WARNING* for Christians on BOTH Sides of Death Penalty",
+      "originalTitle": "Pastor's *WARNING* for Christians on BOTH Sides of Death Penalty",
+      "speaker": "Lakepointe Church speakers",
+      "channel": "Lakepointe Church",
+      "channelURL": "https://www.youtube.com/channel/UC5f7yO3WU_Ns0WDCQuP5bAw",
+      "durationSeconds": 180,
+      "summary": "A short video published by Lakepointe Church.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-10-14T23:45:42Z"
     },
     {
       "id": "SN4C-AQcOjI",
@@ -502,7 +757,7 @@
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-12T23:03:57Z"
     },
     {
@@ -517,8 +772,83 @@
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-11T18:52:18Z"
+    },
+    {
+      "id": "qSxjo8HQnzs",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart Knechtle | Atheist Goes After Christianity With A \"Bless You\" | Give Me an An Answer",
+      "originalTitle": "Stuart Knechtle | Atheist Goes After Christianity With A \"Bless You\" | Give Me an An Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 89,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-10-10T15:19:26Z"
+    },
+    {
+      "id": "FSyLfSyhI-s",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart Knechtle | Are We Affected By People We Hang Out With? | Give Me an An Answer",
+      "originalTitle": "Stuart Knechtle | Are We Affected By People We Hang Out With? | Give Me an An Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 59,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-10-09T14:23:32Z"
+    },
+    {
+      "id": "K6AJa0bzqwA",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart Knechtle | Is Eternal Pain And Suffering Deserved? | Give Me an An Answer",
+      "originalTitle": "Stuart Knechtle | Is Eternal Pain And Suffering Deserved? | Give Me an An Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 95,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-10-08T01:30:32Z"
+    },
+    {
+      "id": "wWsmafrz16M",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart Knechtle | Only Christianity Espouses Real Forgiveness? | Give Me an Answer",
+      "originalTitle": "Stuart Knechtle | Only Christianity Espouses Real Forgiveness? | Give Me an Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 88,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-10-06T15:25:53Z"
+    },
+    {
+      "id": "PqzYGo22tHw",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart Knechtle | Bryce Crawford Asks Why Is Gender Such A Big Issue? | Give Me an Answer",
+      "originalTitle": "Stuart Knechtle | Bryce Crawford Asks Why Is Gender Such A Big Issue? | Give Me an Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 59,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-10-05T15:46:41Z"
     },
     {
       "id": "ydEgsGgglNw",
@@ -532,7 +862,7 @@
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-03T19:30:05Z"
     },
     {
@@ -547,7 +877,7 @@
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-02T19:30:40Z"
     },
     {
@@ -562,8 +892,23 @@
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-01T19:15:11Z"
+    },
+    {
+      "id": "vVlDFEUECzw",
+      "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "title": "Jesus Rescues Man From ISLAM ❤️",
+      "originalTitle": "Jesus Rescues Man From ISLAM ❤️",
+      "speaker": "Daily Dose of Wisdom guests",
+      "channel": "Daily Dose Of Wisdom",
+      "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "durationSeconds": 112,
+      "summary": "A short video published by Daily Dose Of Wisdom.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-09-21T14:30:30Z"
     },
     {
       "id": "1r45lKWVlH8",
@@ -577,7 +922,7 @@
       "summary": "A short video published by Wes Huff.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-08-26T20:24:10Z"
     },
     {
@@ -592,7 +937,7 @@
       "summary": "A short video published by Wes Huff.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-08-26T14:37:46Z"
     },
     {
@@ -607,7 +952,7 @@
       "summary": "A short video published by Wes Huff.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-08-25T23:05:14Z"
     },
     {
@@ -622,7 +967,7 @@
       "summary": "A short video published by Wes Huff.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-08-25T14:28:53Z"
     },
     {
@@ -637,7 +982,7 @@
       "summary": "A short video published by Wes Huff.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-08-22T12:50:08Z"
     },
     {
@@ -652,7 +997,7 @@
       "summary": "A short video published by Wes Huff.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-08-21T15:19:01Z"
     },
     {
@@ -667,7 +1012,7 @@
       "summary": "A short video published by Wes Huff.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-08-18T21:10:06Z"
     },
     {
@@ -682,8 +1027,53 @@
       "summary": "A short video published by Wes Huff.",
       "topicID": "",
       "relatedReferences": [],
-      "reviewedOn": "2026-11-05",
+      "reviewedOn": "2026-11-07",
       "publishedAt": "2026-08-14T19:13:57Z"
+    },
+    {
+      "id": "vO2o82j9Hak",
+      "channelID": "UCJX2EazMKUqBQV048px2aoA",
+      "title": "There’s more to faith than thinking",
+      "originalTitle": "There’s more to faith than thinking",
+      "speaker": "Wes Huff",
+      "channel": "Wes Huff",
+      "channelURL": "https://www.youtube.com/channel/UCJX2EazMKUqBQV048px2aoA",
+      "durationSeconds": 63,
+      "summary": "A short video published by Wes Huff.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-08-05T17:00:44Z"
+    },
+    {
+      "id": "s0d01TlIu3o",
+      "channelID": "UCJX2EazMKUqBQV048px2aoA",
+      "title": "Earliest Christian canon?",
+      "originalTitle": "Earliest Christian canon?",
+      "speaker": "Wes Huff",
+      "channel": "Wes Huff",
+      "channelURL": "https://www.youtube.com/channel/UCJX2EazMKUqBQV048px2aoA",
+      "durationSeconds": 48,
+      "summary": "A short video published by Wes Huff.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-08-03T01:29:04Z"
+    },
+    {
+      "id": "DxgO065-vzQ",
+      "channelID": "UCJX2EazMKUqBQV048px2aoA",
+      "title": "No Roman Catholic Bible",
+      "originalTitle": "No Roman Catholic Bible",
+      "speaker": "Wes Huff",
+      "channel": "Wes Huff",
+      "channelURL": "https://www.youtube.com/channel/UCJX2EazMKUqBQV048px2aoA",
+      "durationSeconds": 48,
+      "summary": "A short video published by Wes Huff.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-07",
+      "publishedAt": "2026-07-21T20:51:01Z"
     }
   ]
 }
