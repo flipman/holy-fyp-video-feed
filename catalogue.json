@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 35,
-  "generatedAt": "2026-11-09T16:49:47Z",
+  "revision": 37,
+  "generatedAt": "2026-11-09T16:52:25Z",
   "channels": [
     {
       "id": "UC5f7yO3WU_Ns0WDCQuP5bAw",
@@ -72,20 +72,20 @@
       "metadataFingerprint": "9918b21e412ab748a7846a7722538d5446f618a990e017cd42e324a47c06fb3b"
     },
     {
-      "id": "sH0pli0fr3g",
-      "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "Marriage in Heaven?",
-      "originalTitle": "Marriage in Heaven?",
-      "speaker": "Cross Examined speakers",
-      "channel": "Cross Examined",
-      "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 113,
-      "summary": "A short video published by Cross Examined.",
+      "id": "ZxtUWgfzRHo",
+      "channelID": "UCJX2EazMKUqBQV048px2aoA",
+      "title": "Earliest image of Jesus isn’t what you think it is",
+      "originalTitle": "Earliest image of Jesus isn’t what you think it is",
+      "speaker": "Wes Huff",
+      "channel": "Wes Huff",
+      "channelURL": "https://www.youtube.com/channel/UCJX2EazMKUqBQV048px2aoA",
+      "durationSeconds": 129,
+      "summary": "A short video published by Wes Huff.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-11-08T16:00:12Z",
-      "metadataFingerprint": "8692fce78b27f13bc4de79d7fd19e39b1bae8b84ccde0fe50c8afeec0985e330"
+      "publishedAt": "2026-11-05T22:33:26Z",
+      "metadataFingerprint": "bf5b4aa744585d1fcdab51b8cdc323e02c46ef5afd5ba52de5d749cc39dd672c"
     },
     {
       "id": "JD6mxmgFfsU",
@@ -104,20 +104,20 @@
       "metadataFingerprint": "2b28dac2eaca59fc5a2b22ed220a99dc91326c78ba013b841ab8ef454fc2fd59"
     },
     {
-      "id": "F9ciJyrYw6g",
-      "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "EVERYONE Believes In at Least ONE Miracle #podcast",
-      "originalTitle": "EVERYONE Believes In at Least ONE Miracle #podcast",
-      "speaker": "Cross Examined speakers",
-      "channel": "Cross Examined",
-      "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 58,
-      "summary": "A short video published by Cross Examined.",
+      "id": "S3LkLyrSjGE",
+      "channelID": "UCJX2EazMKUqBQV048px2aoA",
+      "title": "Jesus is God in ancient manuscript",
+      "originalTitle": "Jesus is God in ancient manuscript",
+      "speaker": "Wes Huff",
+      "channel": "Wes Huff",
+      "channelURL": "https://www.youtube.com/channel/UCJX2EazMKUqBQV048px2aoA",
+      "durationSeconds": 101,
+      "summary": "A short video published by Wes Huff.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-11-06T23:20:28Z",
-      "metadataFingerprint": "fdad0d067d0cccc02394d0a3370ee53c952e459efdb38732f380afb69f786a79"
+      "publishedAt": "2026-11-02T16:57:36Z",
+      "metadataFingerprint": "40e17dbfef3a3193fc46a13b2fb2f6d8c171656b2206071f7738ff4eadc562ca"
     },
     {
       "id": "ASVo2Ro-vLg",
@@ -136,20 +136,20 @@
       "metadataFingerprint": "21b1467ea4fe5c8e97c7b4459cf12a7bd34a03635d25611624d01685ecb28f94"
     },
     {
-      "id": "DesCpMxY7C0",
+      "id": "sH0pli0fr3g",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "The Challenge of Witnessing to Mormons",
-      "originalTitle": "The Challenge of Witnessing to Mormons",
+      "title": "Marriage in Heaven?",
+      "originalTitle": "Marriage in Heaven?",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 179,
+      "durationSeconds": 113,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-11-06T16:00:20Z",
-      "metadataFingerprint": "5e62774c3b2e88ba55a2ba80c3d33a9dd796c70ebeab322ff0f58dbadf68e8cc"
+      "publishedAt": "2026-11-08T16:00:12Z",
+      "metadataFingerprint": "8692fce78b27f13bc4de79d7fd19e39b1bae8b84ccde0fe50c8afeec0985e330"
     },
     {
       "id": "px3dNL7RSns",
@@ -168,20 +168,20 @@
       "metadataFingerprint": "ade51d9c17509f8c2a281b96f67564ebd31841bb7fa2eaf990543c4af1a7a7a3"
     },
     {
-      "id": "-T0gEwbg5FU",
+      "id": "F9ciJyrYw6g",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "Can You Actually SHOW Christianity Is True?",
-      "originalTitle": "Can You Actually SHOW Christianity Is True?",
+      "title": "EVERYONE Believes In at Least ONE Miracle #podcast",
+      "originalTitle": "EVERYONE Believes In at Least ONE Miracle #podcast",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 99,
+      "durationSeconds": 58,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-11-05T23:26:27Z",
-      "metadataFingerprint": "8f702ab158c74a6103acab18bda62bd7501b1ba3ca8b60a5c5691e77f83fd1fb"
+      "publishedAt": "2026-11-06T23:20:28Z",
+      "metadataFingerprint": "fdad0d067d0cccc02394d0a3370ee53c952e459efdb38732f380afb69f786a79"
     },
     {
       "id": "tMUxx89kpHQ",
@@ -200,20 +200,20 @@
       "metadataFingerprint": "167b07056d2b7f2f176ae00b6c8f0c8d30dcbf6407bd841530b5c30d68754513"
     },
     {
-      "id": "Bue-UrLH-O4",
+      "id": "DesCpMxY7C0",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "Is the Exodus Story Made Up?",
-      "originalTitle": "Is the Exodus Story Made Up?",
+      "title": "The Challenge of Witnessing to Mormons",
+      "originalTitle": "The Challenge of Witnessing to Mormons",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 173,
+      "durationSeconds": 179,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-30T18:00:35Z",
-      "metadataFingerprint": "f984a926ed3fdd216c5b8bbc6d40616cc1f64616105c0fd59981b5b369d54842"
+      "publishedAt": "2026-11-06T16:00:20Z",
+      "metadataFingerprint": "5e62774c3b2e88ba55a2ba80c3d33a9dd796c70ebeab322ff0f58dbadf68e8cc"
     },
     {
       "id": "4AtvgaH9s5Y",
@@ -232,20 +232,20 @@
       "metadataFingerprint": "dcdf997fe0e010c96acccf77285241fc924b30dd346b6a66861ad0bfa396dadc"
     },
     {
-      "id": "LY1AFXKWWDM",
+      "id": "-T0gEwbg5FU",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "Is Lying ALWAYS a Sin? #ChristianLiving",
-      "originalTitle": "Is Lying ALWAYS a Sin? #ChristianLiving",
+      "title": "Can You Actually SHOW Christianity Is True?",
+      "originalTitle": "Can You Actually SHOW Christianity Is True?",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 102,
+      "durationSeconds": 99,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-30T15:00:15Z",
-      "metadataFingerprint": "e2b449581512b1fb9aba2250b33e17ee8e8f27da63244b5faf0065e0a08ebdff"
+      "publishedAt": "2026-11-05T23:26:27Z",
+      "metadataFingerprint": "8f702ab158c74a6103acab18bda62bd7501b1ba3ca8b60a5c5691e77f83fd1fb"
     },
     {
       "id": "QWse5DDfX7s",
@@ -264,20 +264,20 @@
       "metadataFingerprint": "69f911119beb777a4dfa4216ddd4095d05e0b62d3a0fd9c003e786b4d376f67a"
     },
     {
-      "id": "gvlDiPEWtUY",
+      "id": "Bue-UrLH-O4",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "Does God Still Speak to Us Today? with @STRvideos",
-      "originalTitle": "Does God Still Speak to Us Today? with @STRvideos",
+      "title": "Is the Exodus Story Made Up?",
+      "originalTitle": "Is the Exodus Story Made Up?",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 135,
+      "durationSeconds": 173,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-29T15:00:13Z",
-      "metadataFingerprint": "20ed55e32d420107911f39041b97ac7a875c2caec4b3ec860fc32d5520a6eb5d"
+      "publishedAt": "2026-10-30T18:00:35Z",
+      "metadataFingerprint": "f984a926ed3fdd216c5b8bbc6d40616cc1f64616105c0fd59981b5b369d54842"
     },
     {
       "id": "8729u3v3k-I",
@@ -296,20 +296,20 @@
       "metadataFingerprint": "a083b243892b0d5d603a504e26f17acb3a09476d558d5329700646ab720c42de"
     },
     {
-      "id": "S8t4mMTYiYI",
+      "id": "LY1AFXKWWDM",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "Heaven or Hell: Is It Really God's Decision? #Theology",
-      "originalTitle": "Heaven or Hell: Is It Really God's Decision? #Theology",
+      "title": "Is Lying ALWAYS a Sin? #ChristianLiving",
+      "originalTitle": "Is Lying ALWAYS a Sin? #ChristianLiving",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 91,
+      "durationSeconds": 102,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-28T15:00:40Z",
-      "metadataFingerprint": "7263a77f724d6d718f4d275b808183a28ade0395689d565a18380d26fcb6100b"
+      "publishedAt": "2026-10-30T15:00:15Z",
+      "metadataFingerprint": "e2b449581512b1fb9aba2250b33e17ee8e8f27da63244b5faf0065e0a08ebdff"
     },
     {
       "id": "a8OSl2zSQso",
@@ -328,20 +328,20 @@
       "metadataFingerprint": "0b4506db28e3daa3a027a602881ea9a9c9cc4cc690a637fd2af8efadc836a27f"
     },
     {
-      "id": "pDXTK0ffEQ8",
+      "id": "gvlDiPEWtUY",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "What Does It Mean to Be FREE in Christ? with @thebeatagp",
-      "originalTitle": "What Does It Mean to Be FREE in Christ? with @thebeatagp",
+      "title": "Does God Still Speak to Us Today? with @STRvideos",
+      "originalTitle": "Does God Still Speak to Us Today? with @STRvideos",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 69,
+      "durationSeconds": 135,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-27T15:00:04Z",
-      "metadataFingerprint": "f34793cdc918c949c1db9d0af4eeff00e06b4b0a34ac94f556bf5fe47c9a63e7"
+      "publishedAt": "2026-10-29T15:00:13Z",
+      "metadataFingerprint": "20ed55e32d420107911f39041b97ac7a875c2caec4b3ec860fc32d5520a6eb5d"
     },
     {
       "id": "tEpS14U-pZ0",
@@ -360,20 +360,20 @@
       "metadataFingerprint": "7bdb9a00766cb5606f1b580740bc7fb1957ab41400058e01cbc9aa058d53781c"
     },
     {
-      "id": "-jXvSKwiqBY",
+      "id": "S8t4mMTYiYI",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "Why Is the Bible Silent About Dinosaurs? #Theology",
-      "originalTitle": "Why Is the Bible Silent About Dinosaurs? #Theology",
+      "title": "Heaven or Hell: Is It Really God's Decision? #Theology",
+      "originalTitle": "Heaven or Hell: Is It Really God's Decision? #Theology",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 121,
+      "durationSeconds": 91,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-26T15:00:15Z",
-      "metadataFingerprint": "f6b449491c4a4f85aed1a7dce15a05c73cfbde683076b8dfc13e15fdd2c4e0a7"
+      "publishedAt": "2026-10-28T15:00:40Z",
+      "metadataFingerprint": "7263a77f724d6d718f4d275b808183a28ade0395689d565a18380d26fcb6100b"
     },
     {
       "id": "URgW5UNPZds",
@@ -392,20 +392,20 @@
       "metadataFingerprint": "0610c8ade3b21200f6b5a590889626fb8dbbf08b3684ecaa339abbb30f32e79f"
     },
     {
-      "id": "xAQL-rjIboA",
+      "id": "pDXTK0ffEQ8",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "Is Capitalism Unchristian? @TheHeritageFoundation",
-      "originalTitle": "Is Capitalism Unchristian? @TheHeritageFoundation",
+      "title": "What Does It Mean to Be FREE in Christ? with @thebeatagp",
+      "originalTitle": "What Does It Mean to Be FREE in Christ? with @thebeatagp",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 88,
+      "durationSeconds": 69,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-23T21:04:37Z",
-      "metadataFingerprint": "1d6fc5c901f87b221fae8eadeb9fbe4018b27656262751195321ae23597ddea7"
+      "publishedAt": "2026-10-27T15:00:04Z",
+      "metadataFingerprint": "f34793cdc918c949c1db9d0af4eeff00e06b4b0a34ac94f556bf5fe47c9a63e7"
     },
     {
       "id": "k_4TZohBKiE",
@@ -424,20 +424,20 @@
       "metadataFingerprint": "839cf479583dd6ccad48936276743045f3d4e2feb524ec9623f74cd933b65704"
     },
     {
-      "id": "iqIy2QBzBLw",
+      "id": "-jXvSKwiqBY",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "Finding God’s Will Shouldn’t Be This Hard @STRvideos",
-      "originalTitle": "Finding God’s Will Shouldn’t Be This Hard @STRvideos",
+      "title": "Why Is the Bible Silent About Dinosaurs? #Theology",
+      "originalTitle": "Why Is the Bible Silent About Dinosaurs? #Theology",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 174,
+      "durationSeconds": 121,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-23T15:00:21Z",
-      "metadataFingerprint": "9bf7574b1e4a467253bf75ea16b92fbbaf9f1ca67e252d5d60bf08f3b2b815a4"
+      "publishedAt": "2026-10-26T15:00:15Z",
+      "metadataFingerprint": "f6b449491c4a4f85aed1a7dce15a05c73cfbde683076b8dfc13e15fdd2c4e0a7"
     },
     {
       "id": "tU2fIVxpuqg",
@@ -456,20 +456,20 @@
       "metadataFingerprint": "f2dce792320f80fd5ef3b1ab1c0f229312ffebd24fe4e6f14212e03bedda9c79"
     },
     {
-      "id": "Rwz__3ZMVLA",
+      "id": "xAQL-rjIboA",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "Do We Really Know What Jesus Said?",
-      "originalTitle": "Do We Really Know What Jesus Said?",
+      "title": "Is Capitalism Unchristian? @TheHeritageFoundation",
+      "originalTitle": "Is Capitalism Unchristian? @TheHeritageFoundation",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 178,
+      "durationSeconds": 88,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-22T23:45:31Z",
-      "metadataFingerprint": "6673815e4a31284db1fd3310205a979c86cf755eb37a9a2181a4e60f82911195"
+      "publishedAt": "2026-10-23T21:04:37Z",
+      "metadataFingerprint": "1d6fc5c901f87b221fae8eadeb9fbe4018b27656262751195321ae23597ddea7"
     },
     {
       "id": "D5ItYWMb-DI",
@@ -488,20 +488,20 @@
       "metadataFingerprint": "af97decad512e65952503d67a7390b6ca95f6cbf0f6c928f353684ffabb80787"
     },
     {
-      "id": "kYuRAEQCHyo",
+      "id": "iqIy2QBzBLw",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "Does God Still Speak to Us Today? @STRvideos",
-      "originalTitle": "Does God Still Speak to Us Today? @STRvideos",
+      "title": "Finding God’s Will Shouldn’t Be This Hard @STRvideos",
+      "originalTitle": "Finding God’s Will Shouldn’t Be This Hard @STRvideos",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 177,
+      "durationSeconds": 174,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-16T15:00:28Z",
-      "metadataFingerprint": "2746d71506b43ae44019e07744f7dbc57557ed0294ef19f49b79b2663c9d6a46"
+      "publishedAt": "2026-10-23T15:00:21Z",
+      "metadataFingerprint": "9bf7574b1e4a467253bf75ea16b92fbbaf9f1ca67e252d5d60bf08f3b2b815a4"
     },
     {
       "id": "UJhrutCBcMQ",
@@ -520,20 +520,20 @@
       "metadataFingerprint": "2d62cfa9fa5a03a99bb5847a95f16f414a5a9b5c4aeb2f613edd35bd96ba8f36"
     },
     {
-      "id": "Fp2XQB3qZfk",
+      "id": "Rwz__3ZMVLA",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "How Can I Forgive My Uncle? #ChristianLiving",
-      "originalTitle": "How Can I Forgive My Uncle? #ChristianLiving",
+      "title": "Do We Really Know What Jesus Said?",
+      "originalTitle": "Do We Really Know What Jesus Said?",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 130,
+      "durationSeconds": 178,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-15T18:00:14Z",
-      "metadataFingerprint": "32061b887da26923af68c8b316f4181dac492b98e199ba4e01951857282cc357"
+      "publishedAt": "2026-10-22T23:45:31Z",
+      "metadataFingerprint": "6673815e4a31284db1fd3310205a979c86cf755eb37a9a2181a4e60f82911195"
     },
     {
       "id": "XtXOmZ1h8i0",
@@ -552,20 +552,20 @@
       "metadataFingerprint": "fba58454318ab5650b6efb9c989922a7416f6b1d1c6d42bb3065c07a05862b69"
     },
     {
-      "id": "lyVgo1_vD5c",
+      "id": "kYuRAEQCHyo",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "Agnostic Asks: Are Aliens Real? #Bible",
-      "originalTitle": "Agnostic Asks: Are Aliens Real? #Bible",
+      "title": "Does God Still Speak to Us Today? @STRvideos",
+      "originalTitle": "Does God Still Speak to Us Today? @STRvideos",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 127,
+      "durationSeconds": 177,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-14T15:00:11Z",
-      "metadataFingerprint": "a3e3e0d5c86ce0caa426972060171148d8269a7ce2c27530291a58b8926ceb70"
+      "publishedAt": "2026-10-16T15:00:28Z",
+      "metadataFingerprint": "2746d71506b43ae44019e07744f7dbc57557ed0294ef19f49b79b2663c9d6a46"
     },
     {
       "id": "vooX9D89wA8",
@@ -584,20 +584,20 @@
       "metadataFingerprint": "4719116fb6f1a8898a5ca0662a07ce09de0987a7e8dd3d186e24af34a61d1edd"
     },
     {
-      "id": "j3gpDIpXkQE",
+      "id": "Fp2XQB3qZfk",
       "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "Why Were Moses & Elijah at the Transfiguration? @apologeticsroadshow",
-      "originalTitle": "Why Were Moses & Elijah at the Transfiguration? @apologeticsroadshow",
+      "title": "How Can I Forgive My Uncle? #ChristianLiving",
+      "originalTitle": "How Can I Forgive My Uncle? #ChristianLiving",
       "speaker": "Cross Examined speakers",
       "channel": "Cross Examined",
       "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 128,
+      "durationSeconds": 130,
       "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-13T15:00:37Z",
-      "metadataFingerprint": "b9d4a6f98083a52473b1b7aad7ac2fc2673bf7e226010894a19e3793db7d30bc"
+      "publishedAt": "2026-10-15T18:00:14Z",
+      "metadataFingerprint": "32061b887da26923af68c8b316f4181dac492b98e199ba4e01951857282cc357"
     },
     {
       "id": "xuTAJoER0G8",
@@ -616,20 +616,20 @@
       "metadataFingerprint": "67989a9ae12269804322a246600e5896ec9e6530046a8681d1b95a20e11f08da"
     },
     {
-      "id": "BPldvqUFVe8",
-      "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "What Is The Bible?",
-      "originalTitle": "What Is The Bible?",
-      "speaker": "Daily Dose of Wisdom guests",
-      "channel": "Daily Dose Of Wisdom",
-      "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 23,
-      "summary": "A short video published by Daily Dose Of Wisdom.",
+      "id": "lyVgo1_vD5c",
+      "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
+      "title": "Agnostic Asks: Are Aliens Real? #Bible",
+      "originalTitle": "Agnostic Asks: Are Aliens Real? #Bible",
+      "speaker": "Cross Examined speakers",
+      "channel": "Cross Examined",
+      "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
+      "durationSeconds": 127,
+      "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-11-09T05:00:36Z",
-      "metadataFingerprint": "34e56d1d3508178d0ab614b2043485ac30d782228c489084d87aa5daf7fc238a"
+      "publishedAt": "2026-10-14T15:00:11Z",
+      "metadataFingerprint": "a3e3e0d5c86ce0caa426972060171148d8269a7ce2c27530291a58b8926ceb70"
     },
     {
       "id": "WplgGbi3Mjs",
@@ -648,20 +648,20 @@
       "metadataFingerprint": "5ab44d030a22721f4afb86bddb49fb1efa41ff2f3e1b8a85c7ba60fedaed30a4"
     },
     {
-      "id": "MNX-Fo8e_lU",
-      "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "MIC DROP Ending! 🔥",
-      "originalTitle": "MIC DROP Ending! 🔥",
-      "speaker": "Daily Dose of Wisdom guests",
-      "channel": "Daily Dose Of Wisdom",
-      "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 180,
-      "summary": "A short video published by Daily Dose Of Wisdom.",
+      "id": "j3gpDIpXkQE",
+      "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
+      "title": "Why Were Moses & Elijah at the Transfiguration? @apologeticsroadshow",
+      "originalTitle": "Why Were Moses & Elijah at the Transfiguration? @apologeticsroadshow",
+      "speaker": "Cross Examined speakers",
+      "channel": "Cross Examined",
+      "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
+      "durationSeconds": 128,
+      "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-11-04T17:00:20Z",
-      "metadataFingerprint": "56870c0b18a5c4ae1128f3adbe239c812f6891cf7d6addb72c8fd3808344b932"
+      "publishedAt": "2026-10-13T15:00:37Z",
+      "metadataFingerprint": "b9d4a6f98083a52473b1b7aad7ac2fc2673bf7e226010894a19e3793db7d30bc"
     },
     {
       "id": "Z1bJKrvC1Ew",
@@ -680,20 +680,20 @@
       "metadataFingerprint": "6020192760ba51e2e1a95206b8eff86f755070b9af5ef13d49666978c4d4db8e"
     },
     {
-      "id": "ydEgsGgglNw",
-      "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "Well that Backfired 😳",
-      "originalTitle": "Well that Backfired 😳",
-      "speaker": "Daily Dose of Wisdom guests",
-      "channel": "Daily Dose Of Wisdom",
-      "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 28,
-      "summary": "A short video published by Daily Dose Of Wisdom.",
+      "id": "SmnLAoaQyPw",
+      "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
+      "title": "Taoist Argument Falls Apart in SECONDS!",
+      "originalTitle": "Taoist Argument Falls Apart in SECONDS!",
+      "speaker": "Cross Examined speakers",
+      "channel": "Cross Examined",
+      "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
+      "durationSeconds": 130,
+      "summary": "A short video published by Cross Examined.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-03T19:30:05Z",
-      "metadataFingerprint": "d3a1fe43e53fec50784f84dc6f0f99130cd0a3d90eade3e6c067f9cdcfc00cd7"
+      "publishedAt": "2026-10-13T15:00:27Z",
+      "metadataFingerprint": "e8c827984798c496f98c3ac6b93255916e35cc73f32846f08ce27d4a4c3ed926"
     },
     {
       "id": "miezWfrt9r8",
@@ -712,20 +712,20 @@
       "metadataFingerprint": "208ad8c6300c7c6150417b879ed22d5b8f15c128e1d43cbaeef0386778507125"
     },
     {
-      "id": "Hdve9OFfJZA",
+      "id": "BPldvqUFVe8",
       "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "300 Prophecies!? (Linked in Description) #jesus",
-      "originalTitle": "300 Prophecies!? (Linked in Description) #jesus",
+      "title": "What Is The Bible?",
+      "originalTitle": "What Is The Bible?",
       "speaker": "Daily Dose of Wisdom guests",
       "channel": "Daily Dose Of Wisdom",
       "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 59,
+      "durationSeconds": 23,
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-01T19:15:11Z",
-      "metadataFingerprint": "0fad53bbe7b885ff0a0416de459a6eabf0d25908cf0f9896a18748c355955831"
+      "publishedAt": "2026-11-09T05:00:36Z",
+      "metadataFingerprint": "34e56d1d3508178d0ab614b2043485ac30d782228c489084d87aa5daf7fc238a"
     },
     {
       "id": "i_Jt8-eeE6I",
@@ -744,20 +744,20 @@
       "metadataFingerprint": "9432eb83ca8449e35c80b3b81e4400e775973e46a0fa80aae8d005ac2fa88eda"
     },
     {
-      "id": "vVlDFEUECzw",
+      "id": "MNX-Fo8e_lU",
       "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "Jesus Rescues Man From ISLAM ❤️",
-      "originalTitle": "Jesus Rescues Man From ISLAM ❤️",
+      "title": "MIC DROP Ending! 🔥",
+      "originalTitle": "MIC DROP Ending! 🔥",
       "speaker": "Daily Dose of Wisdom guests",
       "channel": "Daily Dose Of Wisdom",
       "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 112,
+      "durationSeconds": 180,
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-09-21T14:30:30Z",
-      "metadataFingerprint": "6011d2397f809211bab3de8a77a8d2c30749fc5f2a108ce9e45153c1dbe08999"
+      "publishedAt": "2026-11-04T17:00:20Z",
+      "metadataFingerprint": "56870c0b18a5c4ae1128f3adbe239c812f6891cf7d6addb72c8fd3808344b932"
     },
     {
       "id": "5SyfBevh9S0",
@@ -776,20 +776,20 @@
       "metadataFingerprint": "110225e65b7b98ff879ba45e0ae18282a086f4fe1d544990b46b8290a6781b08"
     },
     {
-      "id": "0BRbCHsRFUo",
+      "id": "ydEgsGgglNw",
       "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "We Agree! ✅ \"God Gives Eternal Life\"",
-      "originalTitle": "We Agree! ✅ \"God Gives Eternal Life\"",
+      "title": "Well that Backfired 😳",
+      "originalTitle": "Well that Backfired 😳",
       "speaker": "Daily Dose of Wisdom guests",
       "channel": "Daily Dose Of Wisdom",
       "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 46,
+      "durationSeconds": 28,
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-09-18T20:00:06Z",
-      "metadataFingerprint": "da4e95b62590ee4473bcdab315f4d1e207d255c925769f31599fc0c548a88b6b"
+      "publishedAt": "2026-10-03T19:30:05Z",
+      "metadataFingerprint": "d3a1fe43e53fec50784f84dc6f0f99130cd0a3d90eade3e6c067f9cdcfc00cd7"
     },
     {
       "id": "CRpZuDjeoDk",
@@ -808,20 +808,20 @@
       "metadataFingerprint": "ad82daec7f7765383d168ed978609e5f72172db3bef0bda8abfb986202c4b77c"
     },
     {
-      "id": "p3xmLpNqGQs",
+      "id": "Hdve9OFfJZA",
       "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "No light = Darkness | No God = Hell",
-      "originalTitle": "No light = Darkness | No God = Hell",
+      "title": "300 Prophecies!? (Linked in Description) #jesus",
+      "originalTitle": "300 Prophecies!? (Linked in Description) #jesus",
       "speaker": "Daily Dose of Wisdom guests",
       "channel": "Daily Dose Of Wisdom",
       "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 90,
+      "durationSeconds": 59,
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-08-21T17:00:08Z",
-      "metadataFingerprint": "5d87981384b34740e26d677a6f960f8d846bffce65424c42e1c4e366d5b7cf2e"
+      "publishedAt": "2026-10-01T19:15:11Z",
+      "metadataFingerprint": "0fad53bbe7b885ff0a0416de459a6eabf0d25908cf0f9896a18748c355955831"
     },
     {
       "id": "aUYDRz-Xjjc",
@@ -840,20 +840,20 @@
       "metadataFingerprint": "11dd57d855ba5054b7bb06a3a719e814669990c35b1540af12c58dc7350c0574"
     },
     {
-      "id": "DHWb_lRqaWs",
+      "id": "vVlDFEUECzw",
       "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "How God SPEAKS 🤯",
-      "originalTitle": "How God SPEAKS 🤯",
+      "title": "Jesus Rescues Man From ISLAM ❤️",
+      "originalTitle": "Jesus Rescues Man From ISLAM ❤️",
       "speaker": "Daily Dose of Wisdom guests",
       "channel": "Daily Dose Of Wisdom",
       "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 134,
+      "durationSeconds": 112,
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-08-16T00:30:04Z",
-      "metadataFingerprint": "c5a1a8a044a572c2adfc713a502230905c41367f608ce5ed3baa1ea4a75f5650"
+      "publishedAt": "2026-09-21T14:30:30Z",
+      "metadataFingerprint": "6011d2397f809211bab3de8a77a8d2c30749fc5f2a108ce9e45153c1dbe08999"
     },
     {
       "id": "O-KjrF3jdko",
@@ -872,20 +872,20 @@
       "metadataFingerprint": "7a256c191bdd93e577fca48971c3dfde001ea8fde5b0ae48da04af9c3154cd11"
     },
     {
-      "id": "Ne6lMp58o5w",
+      "id": "0BRbCHsRFUo",
       "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "DAY 1 \"Let There Be Sun\" (No!)",
-      "originalTitle": "DAY 1 \"Let There Be Sun\" (No!)",
+      "title": "We Agree! ✅ \"God Gives Eternal Life\"",
+      "originalTitle": "We Agree! ✅ \"God Gives Eternal Life\"",
       "speaker": "Daily Dose of Wisdom guests",
       "channel": "Daily Dose Of Wisdom",
       "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 54,
+      "durationSeconds": 46,
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-08-13T19:00:05Z",
-      "metadataFingerprint": "b8039c4d584894c16a1f6ba6331a35eafc9e4eeee6db205d5e05905b9507b9a5"
+      "publishedAt": "2026-09-18T20:00:06Z",
+      "metadataFingerprint": "da4e95b62590ee4473bcdab315f4d1e207d255c925769f31599fc0c548a88b6b"
     },
     {
       "id": "_SqDpJlBbF8",
@@ -904,20 +904,20 @@
       "metadataFingerprint": "08fcb85d551eb1aed21111e457fc87368f54c3031a8a71220ba6416e70fad187"
     },
     {
-      "id": "BSmO45j0xEk",
+      "id": "p3xmLpNqGQs",
       "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "POWERFUL! (Why ALL People Need Forgiveness)",
-      "originalTitle": "POWERFUL! (Why ALL People Need Forgiveness)",
+      "title": "No light = Darkness | No God = Hell",
+      "originalTitle": "No light = Darkness | No God = Hell",
       "speaker": "Daily Dose of Wisdom guests",
       "channel": "Daily Dose Of Wisdom",
       "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 56,
+      "durationSeconds": 90,
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-08-11T17:00:20Z",
-      "metadataFingerprint": "3ebe64cc87a367a8f83a794486d76ffd7332beeaa4b4f9642c26b632d1e8315d"
+      "publishedAt": "2026-08-21T17:00:08Z",
+      "metadataFingerprint": "5d87981384b34740e26d677a6f960f8d846bffce65424c42e1c4e366d5b7cf2e"
     },
     {
       "id": "qXvlXyLOVyg",
@@ -936,20 +936,20 @@
       "metadataFingerprint": "b3824301c2ab99c37569dc4a41077bfc0086f48f69b40dcbc21d01cb85b03270"
     },
     {
-      "id": "n0SvdOHnl7Q",
+      "id": "DHWb_lRqaWs",
       "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "@GodLogic DEBUNKS Top Muslim Myth About Jesus",
-      "originalTitle": "@GodLogic DEBUNKS Top Muslim Myth About Jesus",
+      "title": "How God SPEAKS 🤯",
+      "originalTitle": "How God SPEAKS 🤯",
       "speaker": "Daily Dose of Wisdom guests",
       "channel": "Daily Dose Of Wisdom",
       "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 101,
+      "durationSeconds": 134,
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-08-09T19:00:34Z",
-      "metadataFingerprint": "1c93d4211f8ff7a0db75d6fae79cf9a7403644f5b31eee598b17c1036e328f82"
+      "publishedAt": "2026-08-16T00:30:04Z",
+      "metadataFingerprint": "c5a1a8a044a572c2adfc713a502230905c41367f608ce5ed3baa1ea4a75f5650"
     },
     {
       "id": "aWwIlVdtGvM",
@@ -968,20 +968,20 @@
       "metadataFingerprint": "84ede0ca70010802d7bfb58da40734b2bad3f9fae3e9c5f1bd16c056b207b71f"
     },
     {
-      "id": "eNnHh0VZUFc",
+      "id": "Ne6lMp58o5w",
       "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "John Lennox Answers Atheists Question (2 levels)",
-      "originalTitle": "John Lennox Answers Atheists Question (2 levels)",
+      "title": "DAY 1 \"Let There Be Sun\" (No!)",
+      "originalTitle": "DAY 1 \"Let There Be Sun\" (No!)",
       "speaker": "Daily Dose of Wisdom guests",
       "channel": "Daily Dose Of Wisdom",
       "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 90,
+      "durationSeconds": 54,
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-08-08T19:00:05Z",
-      "metadataFingerprint": "2459b5633a10aeafd564f1b4b4ac5ad5b59859a94e330faa258504b8b53f5373"
+      "publishedAt": "2026-08-13T19:00:05Z",
+      "metadataFingerprint": "b8039c4d584894c16a1f6ba6331a35eafc9e4eeee6db205d5e05905b9507b9a5"
     },
     {
       "id": "cAvvShOeFE0",
@@ -1000,20 +1000,20 @@
       "metadataFingerprint": "83f4e2040814935cce4554db9527e8fcbca6fde8c56781b8314d1ce6ab7395d2"
     },
     {
-      "id": "GwIE7F2Vbjs",
+      "id": "BSmO45j0xEk",
       "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "From ISLAM to JESUS!!!",
-      "originalTitle": "From ISLAM to JESUS!!!",
+      "title": "POWERFUL! (Why ALL People Need Forgiveness)",
+      "originalTitle": "POWERFUL! (Why ALL People Need Forgiveness)",
       "speaker": "Daily Dose of Wisdom guests",
       "channel": "Daily Dose Of Wisdom",
       "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 146,
+      "durationSeconds": 56,
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-08-07T15:55:32Z",
-      "metadataFingerprint": "93e7c86658fc6aaea7ebe62b10bbf965148cb704c76bc435857d83c871c7c0ca"
+      "publishedAt": "2026-08-11T17:00:20Z",
+      "metadataFingerprint": "3ebe64cc87a367a8f83a794486d76ffd7332beeaa4b4f9642c26b632d1e8315d"
     },
     {
       "id": "s6v1G9N_ppY",
@@ -1032,20 +1032,20 @@
       "metadataFingerprint": "dcbd9c62d086ce1664ffd7cde14ab50bb04078866c06bc7e32bbf67edbf5ea86"
     },
     {
-      "id": "LyYxi94e7Ns",
+      "id": "n0SvdOHnl7Q",
       "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "Why Islam Is False.",
-      "originalTitle": "Why Islam Is False.",
+      "title": "@GodLogic DEBUNKS Top Muslim Myth About Jesus",
+      "originalTitle": "@GodLogic DEBUNKS Top Muslim Myth About Jesus",
       "speaker": "Daily Dose of Wisdom guests",
       "channel": "Daily Dose Of Wisdom",
       "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 67,
+      "durationSeconds": 101,
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-07-24T19:00:23Z",
-      "metadataFingerprint": "0fa4a2feb46a817f6aa4b7be00125189b98a515d9e29954c637d7c0670d24720"
+      "publishedAt": "2026-08-09T19:00:34Z",
+      "metadataFingerprint": "1c93d4211f8ff7a0db75d6fae79cf9a7403644f5b31eee598b17c1036e328f82"
     },
     {
       "id": "hcVNopzoO6I",
@@ -1064,20 +1064,20 @@
       "metadataFingerprint": "9e50f2404707db809055b3c2da3f6a02f7b40230ce0f1cef1ac18b80a8dd5fa3"
     },
     {
-      "id": "rfaFUhTzq8A",
+      "id": "eNnHh0VZUFc",
       "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "title": "God Is The BEST Abolitionist.",
-      "originalTitle": "God Is The BEST Abolitionist.",
+      "title": "John Lennox Answers Atheists Question (2 levels)",
+      "originalTitle": "John Lennox Answers Atheists Question (2 levels)",
       "speaker": "Daily Dose of Wisdom guests",
       "channel": "Daily Dose Of Wisdom",
       "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
-      "durationSeconds": 66,
+      "durationSeconds": 90,
       "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-07-23T19:30:23Z",
-      "metadataFingerprint": "b36f36eae1482090dc3fccf514fa740220d1a1b768b0b7e234f8972dabaadda4"
+      "publishedAt": "2026-08-08T19:00:05Z",
+      "metadataFingerprint": "2459b5633a10aeafd564f1b4b4ac5ad5b59859a94e330faa258504b8b53f5373"
     },
     {
       "id": "q9nvrhvhYb4",
@@ -1096,20 +1096,20 @@
       "metadataFingerprint": "13aec71e2184a65472b833faaf68041141f6865d26e8a0d1bd5806111396d105"
     },
     {
-      "id": "6i7k8PtoEcY",
-      "channelID": "UCisU1R_ckyT-y9LQNCPzPRQ",
-      "title": "Do You Have To Love Jesus To Be Saved?",
-      "originalTitle": "Do You Have To Love Jesus To Be Saved?",
-      "speaker": "Taco Talks",
-      "channel": "Taco Talks",
-      "channelURL": "https://www.youtube.com/channel/UCisU1R_ckyT-y9LQNCPzPRQ",
-      "durationSeconds": 168,
-      "summary": "A short video published by Taco Talks.",
+      "id": "GwIE7F2Vbjs",
+      "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "title": "From ISLAM to JESUS!!!",
+      "originalTitle": "From ISLAM to JESUS!!!",
+      "speaker": "Daily Dose of Wisdom guests",
+      "channel": "Daily Dose Of Wisdom",
+      "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "durationSeconds": 146,
+      "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-11-07T16:59:24Z",
-      "metadataFingerprint": "c029ecc6baa3cfe02605979c9eff2fb8bd3c169b89e3e209a4c0276f37f6203a"
+      "publishedAt": "2026-08-07T15:55:32Z",
+      "metadataFingerprint": "93e7c86658fc6aaea7ebe62b10bbf965148cb704c76bc435857d83c871c7c0ca"
     },
     {
       "id": "bJrA74YsAa8",
@@ -1128,20 +1128,20 @@
       "metadataFingerprint": "64dd87907947dddc8243188858a9a98fbb320aa16c756f2b1c1f347119477a1c"
     },
     {
-      "id": "P2llfrZrRig",
-      "channelID": "UCisU1R_ckyT-y9LQNCPzPRQ",
-      "title": "The Hebrew Roots Movement CAN Be Very Dangerous",
-      "originalTitle": "The Hebrew Roots Movement CAN Be Very Dangerous",
-      "speaker": "Taco Talks",
-      "channel": "Taco Talks",
-      "channelURL": "https://www.youtube.com/channel/UCisU1R_ckyT-y9LQNCPzPRQ",
-      "durationSeconds": 155,
-      "summary": "A short video published by Taco Talks.",
+      "id": "LyYxi94e7Ns",
+      "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "title": "Why Islam Is False.",
+      "originalTitle": "Why Islam Is False.",
+      "speaker": "Daily Dose of Wisdom guests",
+      "channel": "Daily Dose Of Wisdom",
+      "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "durationSeconds": 67,
+      "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-11-06T20:58:10Z",
-      "metadataFingerprint": "c544c24e08f978fbc8b961eba9649b71e1fc6b7e5b5369f74a1aaaab60f12c1c"
+      "publishedAt": "2026-07-24T19:00:23Z",
+      "metadataFingerprint": "0fa4a2feb46a817f6aa4b7be00125189b98a515d9e29954c637d7c0670d24720"
     },
     {
       "id": "YJtKfZE_GL0",
@@ -1160,20 +1160,20 @@
       "metadataFingerprint": "42bc37c7ff3595430a2e4a6a8ee659013c0f5a077c78b7b108513165627c6300"
     },
     {
-      "id": "JsoqgXgkPic",
-      "channelID": "UCisU1R_ckyT-y9LQNCPzPRQ",
-      "title": "Did You Know That The Bible Teaches 3 Different Kinds Of Baptism?",
-      "originalTitle": "Did You Know That The Bible Teaches 3 Different Kinds Of Baptism?",
-      "speaker": "Taco Talks",
-      "channel": "Taco Talks",
-      "channelURL": "https://www.youtube.com/channel/UCisU1R_ckyT-y9LQNCPzPRQ",
-      "durationSeconds": 102,
-      "summary": "A short video published by Taco Talks.",
+      "id": "rfaFUhTzq8A",
+      "channelID": "UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "title": "God Is The BEST Abolitionist.",
+      "originalTitle": "God Is The BEST Abolitionist.",
+      "speaker": "Daily Dose of Wisdom guests",
+      "channel": "Daily Dose Of Wisdom",
+      "channelURL": "https://www.youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw",
+      "durationSeconds": 66,
+      "summary": "A short video published by Daily Dose Of Wisdom.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-26T20:04:03Z",
-      "metadataFingerprint": "a1fa3c258daaa7e96ab362d165f36d4e3fc8a7b8da6bc4142e0a4958d9244e8b"
+      "publishedAt": "2026-07-23T19:30:23Z",
+      "metadataFingerprint": "b36f36eae1482090dc3fccf514fa740220d1a1b768b0b7e234f8972dabaadda4"
     },
     {
       "id": "KeB_s5AFzas",
@@ -1192,20 +1192,20 @@
       "metadataFingerprint": "0b74b11e736abbe72f7839cf71ca9d30ab06f68ce5219d4c8819023cce91f08c"
     },
     {
-      "id": "V12Z2-lzTE0",
+      "id": "6i7k8PtoEcY",
       "channelID": "UCisU1R_ckyT-y9LQNCPzPRQ",
-      "title": "What’s Taco’s Favorite Book Of The Bible And Why?",
-      "originalTitle": "What’s Taco’s Favorite Book Of The Bible And Why?",
+      "title": "Do You Have To Love Jesus To Be Saved?",
+      "originalTitle": "Do You Have To Love Jesus To Be Saved?",
       "speaker": "Taco Talks",
       "channel": "Taco Talks",
       "channelURL": "https://www.youtube.com/channel/UCisU1R_ckyT-y9LQNCPzPRQ",
-      "durationSeconds": 100,
+      "durationSeconds": 168,
       "summary": "A short video published by Taco Talks.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-18T19:01:51Z",
-      "metadataFingerprint": "64c3b0929b9ea2e2ff7653bb30fb40bc6bf5e81c156f429cb43050b9a64a6dea"
+      "publishedAt": "2026-11-07T16:59:24Z",
+      "metadataFingerprint": "c029ecc6baa3cfe02605979c9eff2fb8bd3c169b89e3e209a4c0276f37f6203a"
     },
     {
       "id": "cLVoaheNh3c",
@@ -1224,6 +1224,102 @@
       "metadataFingerprint": "02b1b986b314f50c2fa68d194b0b4e4b329368a502f51be2e4d3bd1cd3160247"
     },
     {
+      "id": "P2llfrZrRig",
+      "channelID": "UCisU1R_ckyT-y9LQNCPzPRQ",
+      "title": "The Hebrew Roots Movement CAN Be Very Dangerous",
+      "originalTitle": "The Hebrew Roots Movement CAN Be Very Dangerous",
+      "speaker": "Taco Talks",
+      "channel": "Taco Talks",
+      "channelURL": "https://www.youtube.com/channel/UCisU1R_ckyT-y9LQNCPzPRQ",
+      "durationSeconds": 155,
+      "summary": "A short video published by Taco Talks.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-09",
+      "publishedAt": "2026-11-06T20:58:10Z",
+      "metadataFingerprint": "c544c24e08f978fbc8b961eba9649b71e1fc6b7e5b5369f74a1aaaab60f12c1c"
+    },
+    {
+      "id": "9b8dG41HrFI",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart Knechtle | What One Question Would You Ask God? | Give Me An Answer",
+      "originalTitle": "Stuart Knechtle | What One Question Would You Ask God? | Give Me An Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 61,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-09",
+      "publishedAt": "2026-10-18T22:24:32Z",
+      "metadataFingerprint": "06a85f3d188ec31fdba3c0efd875489287cc51e82bb1144c38bb9bbe6b514dd0"
+    },
+    {
+      "id": "JsoqgXgkPic",
+      "channelID": "UCisU1R_ckyT-y9LQNCPzPRQ",
+      "title": "Did You Know That The Bible Teaches 3 Different Kinds Of Baptism?",
+      "originalTitle": "Did You Know That The Bible Teaches 3 Different Kinds Of Baptism?",
+      "speaker": "Taco Talks",
+      "channel": "Taco Talks",
+      "channelURL": "https://www.youtube.com/channel/UCisU1R_ckyT-y9LQNCPzPRQ",
+      "durationSeconds": 102,
+      "summary": "A short video published by Taco Talks.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-09",
+      "publishedAt": "2026-10-26T20:04:03Z",
+      "metadataFingerprint": "a1fa3c258daaa7e96ab362d165f36d4e3fc8a7b8da6bc4142e0a4958d9244e8b"
+    },
+    {
+      "id": "zfpLL7mokUI",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart Knechtle | Can You Be Sure That Christianity Is True? | Give Me An Answer",
+      "originalTitle": "Stuart Knechtle | Can You Be Sure That Christianity Is True? | Give Me An Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 78,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-09",
+      "publishedAt": "2026-10-17T15:06:26Z",
+      "metadataFingerprint": "579acc068475f1648ac270fce3fbab65ab367233e0f7146bf3ede770e460ebf9"
+    },
+    {
+      "id": "V12Z2-lzTE0",
+      "channelID": "UCisU1R_ckyT-y9LQNCPzPRQ",
+      "title": "What’s Taco’s Favorite Book Of The Bible And Why?",
+      "originalTitle": "What’s Taco’s Favorite Book Of The Bible And Why?",
+      "speaker": "Taco Talks",
+      "channel": "Taco Talks",
+      "channelURL": "https://www.youtube.com/channel/UCisU1R_ckyT-y9LQNCPzPRQ",
+      "durationSeconds": 100,
+      "summary": "A short video published by Taco Talks.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-09",
+      "publishedAt": "2026-10-18T19:01:51Z",
+      "metadataFingerprint": "64c3b0929b9ea2e2ff7653bb30fb40bc6bf5e81c156f429cb43050b9a64a6dea"
+    },
+    {
+      "id": "yWdqRLc7Sj0",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart Knechtle | Student Struggles With Questioning If God Stays The Same? | Give Me An Answer",
+      "originalTitle": "Stuart Knechtle | Student Struggles With Questioning If God Stays The Same? | Give Me An Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 168,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
+      "topicID": "",
+      "relatedReferences": [],
+      "reviewedOn": "2026-11-09",
+      "publishedAt": "2026-10-15T22:51:40Z",
+      "metadataFingerprint": "3b95ddbc8dbd41c43bb3a58e073dc7b990bc20bfde1ff918069e445eb4c0eb1b"
+    },
+    {
       "id": "Nn5gilDHdy8",
       "channelID": "UCisU1R_ckyT-y9LQNCPzPRQ",
       "title": "How To Find A Good Church Step By Step",
@@ -1240,20 +1336,20 @@
       "metadataFingerprint": "fca52dd5ff7da8a91bc2f31d1a45c5c8f5fb7f5267dc759f9f5ce7bfe79c6ee5"
     },
     {
-      "id": "FSyLfSyhI-s",
+      "id": "_gaqU63UmHc",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle | Are We Affected By People We Hang Out With? | Give Me an Answer",
-      "originalTitle": "Stuart Knechtle | Are We Affected By People We Hang Out With? | Give Me an Answer",
+      "title": "Stuart Knechtle | Is Being A White Supremacist A Christian Concept? | Give Me an Answer",
+      "originalTitle": "Stuart Knechtle | Is Being A White Supremacist A Christian Concept? | Give Me an Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 59,
+      "durationSeconds": 45,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-09T14:23:32Z",
-      "metadataFingerprint": "24ed34a5fbdafb8e156f300218fc09c19b85cc0d57b08146e2eebeed04fe0cf4"
+      "publishedAt": "2026-10-15T00:35:24Z",
+      "metadataFingerprint": "95a49bc4d7eada25d62cf12a35e7970d257690191dce4abe9cfc687b0ab23bf7"
     },
     {
       "id": "htqc8k4XyNQ",
@@ -1272,20 +1368,20 @@
       "metadataFingerprint": "64df60ef5322e3502ebe30744ad4938f713026b741dbad30ab3125a883c5dd05"
     },
     {
-      "id": "K6AJa0bzqwA",
+      "id": "SN4C-AQcOjI",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle | Is Eternal Pain And Suffering Deserved? | Give Me an Answer",
-      "originalTitle": "Stuart Knechtle | Is Eternal Pain And Suffering Deserved? | Give Me an Answer",
+      "title": "Stuart Knechtle | Atheist Admits He Just Wants To Be In Charge | Give Me an Answer",
+      "originalTitle": "Stuart Knechtle | Atheist Admits He Just Wants To Be In Charge | Give Me an Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 95,
+      "durationSeconds": 69,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-08T01:30:32Z",
-      "metadataFingerprint": "54ace87a308f59d185f5c10f0d3356305d6f535b21d58ada9e9d53ac8ef945ea"
+      "publishedAt": "2026-10-12T23:03:57Z",
+      "metadataFingerprint": "f345883fb5a46b265307c03faaa81e826ec1b619ab6ac25d0eb45dd39c2d4184"
     },
     {
       "id": "9wf5qBK6TgY",
@@ -1304,20 +1400,20 @@
       "metadataFingerprint": "42fa10c717eb6211756c43413916aa84b231c9c2d6ec3844ef3342eec2021678"
     },
     {
-      "id": "wWsmafrz16M",
+      "id": "FSyLfSyhI-s",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle | Only Christianity Espouses Real Forgiveness? | Give Me an Answer",
-      "originalTitle": "Stuart Knechtle | Only Christianity Espouses Real Forgiveness? | Give Me an Answer",
+      "title": "Stuart Knechtle | Are We Affected By People We Hang Out With? | Give Me an Answer",
+      "originalTitle": "Stuart Knechtle | Are We Affected By People We Hang Out With? | Give Me an Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 88,
+      "durationSeconds": 59,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-06T15:25:53Z",
-      "metadataFingerprint": "bd894c0a44551a59685411b5daf75388185a0716e8c19598391604feb0e8c4a8"
+      "publishedAt": "2026-10-09T14:23:32Z",
+      "metadataFingerprint": "24ed34a5fbdafb8e156f300218fc09c19b85cc0d57b08146e2eebeed04fe0cf4"
     },
     {
       "id": "f7lywBSs7NA",
@@ -1336,20 +1432,20 @@
       "metadataFingerprint": "e5d1ea936b12b1ce519d796753bb8c3f33b1abb007c4a59561e8a7946dec041c"
     },
     {
-      "id": "PqzYGo22tHw",
+      "id": "K6AJa0bzqwA",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle | Bryce Crawford Asks Why Is Gender Such A Big Issue? | Give Me an Answer",
-      "originalTitle": "Stuart Knechtle | Bryce Crawford Asks Why Is Gender Such A Big Issue? | Give Me an Answer",
+      "title": "Stuart Knechtle | Is Eternal Pain And Suffering Deserved? | Give Me an Answer",
+      "originalTitle": "Stuart Knechtle | Is Eternal Pain And Suffering Deserved? | Give Me an Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 59,
+      "durationSeconds": 95,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-05T15:46:41Z",
-      "metadataFingerprint": "243e2bcdfcf00c04d690fc563a76b87f4bf144d4c8e4637522b64cda52234fa0"
+      "publishedAt": "2026-10-08T01:30:32Z",
+      "metadataFingerprint": "54ace87a308f59d185f5c10f0d3356305d6f535b21d58ada9e9d53ac8ef945ea"
     },
     {
       "id": "7lY1bFqRwDM",
@@ -1368,20 +1464,20 @@
       "metadataFingerprint": "854a30cb02e51889998cea449e0a4d54fd0b5b7c762d2b95596c0cfa443c3567"
     },
     {
-      "id": "YfzDoFHjbUA",
+      "id": "wWsmafrz16M",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle | Was The Christian Story Just A Coverup? | Give Me an Answer",
-      "originalTitle": "Stuart Knechtle | Was The Christian Story Just A Coverup? | Give Me an Answer",
+      "title": "Stuart Knechtle | Only Christianity Espouses Real Forgiveness? | Give Me an Answer",
+      "originalTitle": "Stuart Knechtle | Only Christianity Espouses Real Forgiveness? | Give Me an Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 95,
+      "durationSeconds": 88,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-04T01:51:33Z",
-      "metadataFingerprint": "a5c3634e5291a824ef7fcbb53721e2c851ce4c4a2963b0699cd44b4699bc346e"
+      "publishedAt": "2026-10-06T15:25:53Z",
+      "metadataFingerprint": "bd894c0a44551a59685411b5daf75388185a0716e8c19598391604feb0e8c4a8"
     },
     {
       "id": "g5d4Qz4j40k",
@@ -1400,20 +1496,20 @@
       "metadataFingerprint": "7ba398290ae7577fa90060c64c3ab837a77d08551347cef202c47334d704e844"
     },
     {
-      "id": "cZpz96EkrVM",
+      "id": "PqzYGo22tHw",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart & Cliffe Knechtle | Faith Is Not About Feelings | Give Me an Answer",
-      "originalTitle": "Stuart & Cliffe Knechtle | Faith Is Not About Feelings | Give Me an Answer",
+      "title": "Stuart Knechtle | Bryce Crawford Asks Why Is Gender Such A Big Issue? | Give Me an Answer",
+      "originalTitle": "Stuart Knechtle | Bryce Crawford Asks Why Is Gender Such A Big Issue? | Give Me an Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 60,
+      "durationSeconds": 59,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-02T14:38:43Z",
-      "metadataFingerprint": "fbdec3b802a3672d9b9f24dbbec4cade831d6a0c2105a87b74d0c62fdac82364"
+      "publishedAt": "2026-10-05T15:46:41Z",
+      "metadataFingerprint": "243e2bcdfcf00c04d690fc563a76b87f4bf144d4c8e4637522b64cda52234fa0"
     },
     {
       "id": "vyuwYRZyWA8",
@@ -1432,20 +1528,20 @@
       "metadataFingerprint": "a5e03214def04c0e5754e8d0d80cc007b3ddfc67ed76db4d107f6982df832793"
     },
     {
-      "id": "LBDwEZ4YOwg",
+      "id": "YfzDoFHjbUA",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle Discusses Atheism That Leads To Despair at TX A&M | Give Me An Answer",
-      "originalTitle": "Stuart Knechtle Discusses Atheism That Leads To Despair at TX A&M | Give Me An Answer",
+      "title": "Stuart Knechtle | Was The Christian Story Just A Coverup? | Give Me an Answer",
+      "originalTitle": "Stuart Knechtle | Was The Christian Story Just A Coverup? | Give Me an Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 105,
+      "durationSeconds": 95,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-01T20:34:34Z",
-      "metadataFingerprint": "c096dcb72db880dca4e6818259f1999fb97855c2cd52181dc087f275d9554663"
+      "publishedAt": "2026-10-04T01:51:33Z",
+      "metadataFingerprint": "a5c3634e5291a824ef7fcbb53721e2c851ce4c4a2963b0699cd44b4699bc346e"
     },
     {
       "id": "zJdCjbtOUq8",
@@ -1464,20 +1560,20 @@
       "metadataFingerprint": "4690f156d7a5395a93665cd4171268cf5cd48284a3db2dc3b50e8af7facaeab3"
     },
     {
-      "id": "GSKaib849g8",
+      "id": "cZpz96EkrVM",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle | Can A Christian Stop Believing In God? | Give Me An Answer",
-      "originalTitle": "Stuart Knechtle | Can A Christian Stop Believing In God? | Give Me An Answer",
+      "title": "Stuart & Cliffe Knechtle | Faith Is Not About Feelings | Give Me an Answer",
+      "originalTitle": "Stuart & Cliffe Knechtle | Faith Is Not About Feelings | Give Me an Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 75,
+      "durationSeconds": 60,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-09-30T15:52:38Z",
-      "metadataFingerprint": "3167a643a7ed8da33db996c8b7f4561eabcf5616f40146acc08b8f57a67f480d"
+      "publishedAt": "2026-10-02T14:38:43Z",
+      "metadataFingerprint": "fbdec3b802a3672d9b9f24dbbec4cade831d6a0c2105a87b74d0c62fdac82364"
     },
     {
       "id": "eQbzdYlhB6o",
@@ -1496,20 +1592,20 @@
       "metadataFingerprint": "43df80acf8d927226ef3bd01e8451f1e6670edca6e6bd6186466c14b4a60c3d6"
     },
     {
-      "id": "HQSNifQKsGs",
+      "id": "LBDwEZ4YOwg",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle | Does Your Christianity Hinge On Your Lived Experience? | Give Me An Answer",
-      "originalTitle": "Stuart Knechtle | Does Your Christianity Hinge On Your Lived Experience? | Give Me An Answer",
+      "title": "Stuart Knechtle Discusses Atheism That Leads To Despair at TX A&M | Give Me An Answer",
+      "originalTitle": "Stuart Knechtle Discusses Atheism That Leads To Despair at TX A&M | Give Me An Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 104,
+      "durationSeconds": 105,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-09-29T15:13:55Z",
-      "metadataFingerprint": "1c1f5af0d8d6496c3986c5a04b76fe9e8a0f1af4759d50c3bcc6cab901dde103"
+      "publishedAt": "2026-10-01T20:34:34Z",
+      "metadataFingerprint": "c096dcb72db880dca4e6818259f1999fb97855c2cd52181dc087f275d9554663"
     },
     {
       "id": "lhZ9AKpOKtk",
@@ -1528,20 +1624,20 @@
       "metadataFingerprint": "f4bc897894ac0000b5b6c543a526be9432388183b97fc7aae293b2fb3da0224a"
     },
     {
-      "id": "qOZ0rx70frk",
+      "id": "GSKaib849g8",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle | Why Does A Good God Allow Evil & Suffering? | Give Me An Answer",
-      "originalTitle": "Stuart Knechtle | Why Does A Good God Allow Evil & Suffering? | Give Me An Answer",
+      "title": "Stuart Knechtle | Can A Christian Stop Believing In God? | Give Me An Answer",
+      "originalTitle": "Stuart Knechtle | Can A Christian Stop Believing In God? | Give Me An Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 36,
+      "durationSeconds": 75,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-09-28T15:38:37Z",
-      "metadataFingerprint": "af6de2dd305a2b813bfb7ad8add0f3794f7c16b4feb6dffdda18de3f2e3a59e0"
+      "publishedAt": "2026-09-30T15:52:38Z",
+      "metadataFingerprint": "3167a643a7ed8da33db996c8b7f4561eabcf5616f40146acc08b8f57a67f480d"
     },
     {
       "id": "VEDd4rnJD5U",
@@ -1560,20 +1656,20 @@
       "metadataFingerprint": "cbd9f4a48ecaeee7767f5ea43229be4f1bcd7a8fa1f8dcd7433ae55a8a2ee330"
     },
     {
-      "id": "yZ-ChE3dBS8",
+      "id": "HQSNifQKsGs",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle | Does Everything Happen By Accident? | Give Me An Answer",
-      "originalTitle": "Stuart Knechtle | Does Everything Happen By Accident? | Give Me An Answer",
+      "title": "Stuart Knechtle | Does Your Christianity Hinge On Your Lived Experience? | Give Me An Answer",
+      "originalTitle": "Stuart Knechtle | Does Your Christianity Hinge On Your Lived Experience? | Give Me An Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 60,
+      "durationSeconds": 104,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-09-27T18:02:02Z",
-      "metadataFingerprint": "68d139410653447d961cd46e629c935ce0954b2b22485095eca45b279d19e59c"
+      "publishedAt": "2026-09-29T15:13:55Z",
+      "metadataFingerprint": "1c1f5af0d8d6496c3986c5a04b76fe9e8a0f1af4759d50c3bcc6cab901dde103"
     },
     {
       "id": "Mz0dSe997vw",
@@ -1592,20 +1688,20 @@
       "metadataFingerprint": "137e16a191c755d918c6e44560f2796cdace53ed44f4f582606314a95f1e9b53"
     },
     {
-      "id": "XKOBGVxJUio",
+      "id": "qOZ0rx70frk",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle - Maryland | Can We Write The Bible Better Than God's Apostles? | Give Me An Answer",
-      "originalTitle": "Stuart Knechtle - Maryland | Can We Write The Bible Better Than God's Apostles? | Give Me An Answer",
+      "title": "Stuart Knechtle | Why Does A Good God Allow Evil & Suffering? | Give Me An Answer",
+      "originalTitle": "Stuart Knechtle | Why Does A Good God Allow Evil & Suffering? | Give Me An Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 69,
+      "durationSeconds": 36,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-09-25T12:00:35Z",
-      "metadataFingerprint": "5fa14f308a7229d7df6a4ac09f717ed1f3bc0b2d81ad7474e2e8d642303631b3"
+      "publishedAt": "2026-09-28T15:38:37Z",
+      "metadataFingerprint": "af6de2dd305a2b813bfb7ad8add0f3794f7c16b4feb6dffdda18de3f2e3a59e0"
     },
     {
       "id": "G_9874B1GmI",
@@ -1624,20 +1720,20 @@
       "metadataFingerprint": "b919cb28ea7b9af4aae0059d7f8e274c82c74e936fb9c0d21ad16c472db9a59c"
     },
     {
-      "id": "0RzvYyIf4b4",
+      "id": "yZ-ChE3dBS8",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle | Student Assumes Randomness | Give Me An Answer",
-      "originalTitle": "Stuart Knechtle | Student Assumes Randomness | Give Me An Answer",
+      "title": "Stuart Knechtle | Does Everything Happen By Accident? | Give Me An Answer",
+      "originalTitle": "Stuart Knechtle | Does Everything Happen By Accident? | Give Me An Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 103,
+      "durationSeconds": 60,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-09-24T17:47:41Z",
-      "metadataFingerprint": "883ad4951b3a6584dd024b573bf7dd21637341d2e92dd4feb5cf3a7959ecc51d"
+      "publishedAt": "2026-09-27T18:02:02Z",
+      "metadataFingerprint": "68d139410653447d961cd46e629c935ce0954b2b22485095eca45b279d19e59c"
     },
     {
       "id": "wbtwX-tELEQ",
@@ -1656,20 +1752,20 @@
       "metadataFingerprint": "a6a40df25b30766ef1c46802a26a658db532b94f9f5cca2d58b66ceae0559e96"
     },
     {
-      "id": "fknG3_s5u9Q",
+      "id": "XKOBGVxJUio",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle | Christian Faith Is A Trust In Jesus | Give Me An Answer",
-      "originalTitle": "Stuart Knechtle | Christian Faith Is A Trust In Jesus | Give Me An Answer",
+      "title": "Stuart Knechtle - Maryland | Can We Write The Bible Better Than God's Apostles? | Give Me An Answer",
+      "originalTitle": "Stuart Knechtle - Maryland | Can We Write The Bible Better Than God's Apostles? | Give Me An Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 88,
+      "durationSeconds": 69,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-09-24T01:44:51Z",
-      "metadataFingerprint": "f87e2d0d7c5abd85f819e9f1cb1f97100961946898f9de1c4d5db0c152902593"
+      "publishedAt": "2026-09-25T12:00:35Z",
+      "metadataFingerprint": "5fa14f308a7229d7df6a4ac09f717ed1f3bc0b2d81ad7474e2e8d642303631b3"
     },
     {
       "id": "UlHZl5c18T0",
@@ -1688,20 +1784,20 @@
       "metadataFingerprint": "0c49675fd9f656de8ab08120673bc508257044ceac117ae54f0e77469495194d"
     },
     {
-      "id": "M6VYpkx3INY",
+      "id": "0RzvYyIf4b4",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle | The Worst Atheist Answer | Give Me An Answer",
-      "originalTitle": "Stuart Knechtle | The Worst Atheist Answer | Give Me An Answer",
+      "title": "Stuart Knechtle | Student Assumes Randomness | Give Me An Answer",
+      "originalTitle": "Stuart Knechtle | Student Assumes Randomness | Give Me An Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 25,
+      "durationSeconds": 103,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-09-22T21:19:08Z",
-      "metadataFingerprint": "2e377d1d6c97694c8c431d2e7a61811e8590a0d3800b2cd7cfe8c5f7148a218d"
+      "publishedAt": "2026-09-24T17:47:41Z",
+      "metadataFingerprint": "883ad4951b3a6584dd024b573bf7dd21637341d2e92dd4feb5cf3a7959ecc51d"
     },
     {
       "id": "ikyADk6qKHY",
@@ -1720,20 +1816,20 @@
       "metadataFingerprint": "8cd94d24904a7b55b071fd996e512ef36c529086fbe34a7be7b34f68d10c8a62"
     },
     {
-      "id": "YXe_avkzxwo",
+      "id": "fknG3_s5u9Q",
       "channelID": "UCKr-liguaGWMf3f94eQXsug",
-      "title": "Stuart Knechtle | Humility Starts With Thinking Of Yourself Less  | Maryland | Give Me an Answer",
-      "originalTitle": "Stuart Knechtle | Humility Starts With Thinking Of Yourself Less  | Maryland | Give Me an Answer",
+      "title": "Stuart Knechtle | Christian Faith Is A Trust In Jesus | Give Me An Answer",
+      "originalTitle": "Stuart Knechtle | Christian Faith Is A Trust In Jesus | Give Me An Answer",
       "speaker": "Cliffe and Stuart Knechtle",
       "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
       "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
-      "durationSeconds": 95,
+      "durationSeconds": 88,
       "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-09-21T02:23:04Z",
-      "metadataFingerprint": "00f891373439ebc14bd34ef8b3a29adbf1e6ed4c3585f603f47571bd88f2c7e0"
+      "publishedAt": "2026-09-24T01:44:51Z",
+      "metadataFingerprint": "f87e2d0d7c5abd85f819e9f1cb1f97100961946898f9de1c4d5db0c152902593"
     },
     {
       "id": "QBBBGU2P3Ic",
@@ -1752,20 +1848,20 @@
       "metadataFingerprint": "1a15822dcf67e01bcd42f7bb50d69c50189d6332ba54dd35ab5d9ff33546398b"
     },
     {
-      "id": "ZxtUWgfzRHo",
-      "channelID": "UCJX2EazMKUqBQV048px2aoA",
-      "title": "Earliest image of Jesus isn’t what you think it is",
-      "originalTitle": "Earliest image of Jesus isn’t what you think it is",
-      "speaker": "Wes Huff",
-      "channel": "Wes Huff",
-      "channelURL": "https://www.youtube.com/channel/UCJX2EazMKUqBQV048px2aoA",
-      "durationSeconds": 129,
-      "summary": "A short video published by Wes Huff.",
+      "id": "M6VYpkx3INY",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart Knechtle | The Worst Atheist Answer | Give Me An Answer",
+      "originalTitle": "Stuart Knechtle | The Worst Atheist Answer | Give Me An Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 25,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-11-05T22:33:26Z",
-      "metadataFingerprint": "bf5b4aa744585d1fcdab51b8cdc323e02c46ef5afd5ba52de5d749cc39dd672c"
+      "publishedAt": "2026-09-22T21:19:08Z",
+      "metadataFingerprint": "2e377d1d6c97694c8c431d2e7a61811e8590a0d3800b2cd7cfe8c5f7148a218d"
     },
     {
       "id": "STqJoRBGROo",
@@ -1784,20 +1880,20 @@
       "metadataFingerprint": "218a49ecef4c3a2fefe9485c157e71e38ed9c9c1906e9e788a9dafc41c7c909e"
     },
     {
-      "id": "S3LkLyrSjGE",
-      "channelID": "UCJX2EazMKUqBQV048px2aoA",
-      "title": "Jesus is God in ancient manuscript",
-      "originalTitle": "Jesus is God in ancient manuscript",
-      "speaker": "Wes Huff",
-      "channel": "Wes Huff",
-      "channelURL": "https://www.youtube.com/channel/UCJX2EazMKUqBQV048px2aoA",
-      "durationSeconds": 101,
-      "summary": "A short video published by Wes Huff.",
+      "id": "YXe_avkzxwo",
+      "channelID": "UCKr-liguaGWMf3f94eQXsug",
+      "title": "Stuart Knechtle | Humility Starts With Thinking Of Yourself Less  | Maryland | Give Me an Answer",
+      "originalTitle": "Stuart Knechtle | Humility Starts With Thinking Of Yourself Less  | Maryland | Give Me an Answer",
+      "speaker": "Cliffe and Stuart Knechtle",
+      "channel": "Give Me An Answer with Stuart & Cliffe Knechtle",
+      "channelURL": "https://www.youtube.com/channel/UCKr-liguaGWMf3f94eQXsug",
+      "durationSeconds": 95,
+      "summary": "A short video published by Give Me An Answer with Stuart & Cliffe Knechtle.",
       "topicID": "",
       "relatedReferences": [],
       "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-11-02T16:57:36Z",
-      "metadataFingerprint": "40e17dbfef3a3193fc46a13b2fb2f6d8c171656b2206071f7738ff4eadc562ca"
+      "publishedAt": "2026-09-21T02:23:04Z",
+      "metadataFingerprint": "00f891373439ebc14bd34ef8b3a29adbf1e6ed4c3585f603f47571bd88f2c7e0"
     },
     {
       "id": "S7DJp4aRepY",
@@ -2390,22 +2486,6 @@
       "reviewedOn": "2026-11-09",
       "publishedAt": "2025-09-12T23:40:24Z",
       "metadataFingerprint": "9f4cec04dfcd32271ca41b5e299e2b1975e9160f47f2ff7d63c42b00c7539481"
-    },
-    {
-      "id": "SmnLAoaQyPw",
-      "channelID": "UCedYGs_lqq1uNet0u7qlSyQ",
-      "title": "Taoist Argument Falls Apart in SECONDS!",
-      "originalTitle": "Taoist Argument Falls Apart in SECONDS!",
-      "speaker": "Cross Examined speakers",
-      "channel": "Cross Examined",
-      "channelURL": "https://www.youtube.com/channel/UCedYGs_lqq1uNet0u7qlSyQ",
-      "durationSeconds": 130,
-      "summary": "A short video published by Cross Examined.",
-      "topicID": "",
-      "relatedReferences": [],
-      "reviewedOn": "2026-11-09",
-      "publishedAt": "2026-10-13T15:00:27Z",
-      "metadataFingerprint": "e8c827984798c496f98c3ac6b93255916e35cc73f32846f08ce27d4a4c3ed926"
     }
   ]
 }
