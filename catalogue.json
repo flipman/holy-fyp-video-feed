@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 17,
-  "generatedAt": "2026-11-07T15:00:35Z",
+  "revision": 18,
+  "generatedAt": "2026-11-09T12:19:53Z",
   "channels": [
     {
       "id": "UC5f7yO3WU_Ns0WDCQuP5bAw",
@@ -489,21 +489,6 @@
       "relatedReferences": [],
       "reviewedOn": "2026-11-07",
       "publishedAt": "2026-10-25T20:37:06Z"
-    },
-    {
-      "id": "rlveS01MJcw",
-      "channelID": "UCisU1R_ckyT-y9LQNCPzPRQ",
-      "title": "The Eberlestock Prowl",
-      "originalTitle": "The Eberlestock Prowl",
-      "speaker": "Taco Talks",
-      "channel": "Taco Talks",
-      "channelURL": "https://www.youtube.com/channel/UCisU1R_ckyT-y9LQNCPzPRQ",
-      "durationSeconds": 126,
-      "summary": "A short video published by Taco Talks.",
-      "topicID": "",
-      "relatedReferences": [],
-      "reviewedOn": "2026-11-07",
-      "publishedAt": "2026-10-24T15:01:10Z"
     },
     {
       "id": "tU2fIVxpuqg",
